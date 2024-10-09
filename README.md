@@ -42,8 +42,8 @@ This application provides a user-friendly interface for uploading medical docume
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-repo/medical-rag.git
-cd medical-rag
+git clone https://github.com/ShantamShukla/medicalrag.git
+cd medicalrag
 ```
 
 ### 2. Install Dependencies
